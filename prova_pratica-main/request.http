@@ -1,0 +1,10 @@
+POST http://localhost:3333/cadastrar
+content-type: application/json
+
+{
+    "name":"A volta dos que não foram",
+    "category": "humon",
+    "description":"-------",
+    "price":10.10,
+    "quant": 9
+}

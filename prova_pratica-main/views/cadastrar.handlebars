@@ -1,0 +1,29 @@
+<body>
+    <header style="display: flex; justify-content: center; gap: 40px; padding: 10px;">
+        <a href="/" style="text-decoration: none; color: #000; font-size: 26px;">livros</a>
+        <a href="/cadastrar" style="text-decoration: none; color: #000; font-size: 26px;">Cadastrar</a>
+    </header>
+
+    <main style="padding: 20px;">
+        <div style="width: 400px; margin: 0 auto;">
+            <form action="POST" style="display: flex; flex-direction: column;">
+                <label for="name">Título do livor:</label>
+                <input type="text" id="name" placeholder="Digite o nome do livro...">
+
+                <label for="category">Categoria do livro:</label>
+                <input type="text" id="category" placeholder="Digite a categoria do livro...">
+
+                <label for="description">Descrição do livro</label>
+                <textarea name="description" id="description" cols="35" rows="10" placeholder="Digite a descrição do livro..."></textarea>
+
+                <label for="price">Preço do livor:</label>
+                <input type="number" id="price" placeholder="R$00,00">
+
+                <label for="quant">Título do livro:</label>
+                <input type="number" id="quant" placeholder="10">
+
+                <button action="POST">Cadastrar</button>
+            </form>
+        </div>
+    </main>
+</body>

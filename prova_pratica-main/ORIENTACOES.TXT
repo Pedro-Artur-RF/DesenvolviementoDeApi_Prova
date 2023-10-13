@@ -1,0 +1,17 @@
+Olá, Jovens Padawans.
+
+Você foi contratada(o) pela empresa de tecnologia da informação GOJIRA, e em sua primeira sprint contém as orientações que deverá desenvolver um sistema de gestão de produtos para uma loja ONLINE. Para cadastrar o produto nessa loja receber as informações de TÍTULO, CATEGORIA, DESCRIÇÃO, PREÇO e DISPONIBILIDADE NO ESTOQUE. A problemática envolve a necessidade de criar um sistema de CRUD eficiente que permita adicionar, visualizar, atualizar e excluir produtos de forma rápida e precisa.
+
+Distribuição de Pontos.
+[] - Criação da View e Rota para Cadastrar os produtos (2,0)
+[] - Criação da View e Rota para Listar os produtos (2,0)
+[] - Criação da View e Rota para Listar um único produto (2,0)
+[] - Criação da View e Rota para Atualizar um único produto (2,0)
+[] - Criação da Rota para Excluir um único produto (2,0)
+
+CORES DA APLICAÇÃO
+Azul - #3629CB
+Verde - #018948
+Vermelho - #AC0000
+Branco - #FFFFFF
+PRETO - #000000
